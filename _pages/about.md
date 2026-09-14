@@ -14,6 +14,6 @@ My research interests include:
 📧 Email: junkaizhao75@gmail.com
 
 ## Education
-- **Ph.D. in Electronics**, Nanyang Technological University (NTU), 2021.08 - 2026.06
+- **Ph.D. in Electronics**, Nanyang Technological University (NTU), 2021.08 - 2026.07
 - **M.S. in Electronics**, Nanyang Technological University (NTU), 2020.08 - 2021.06
 - **B.Eng. in Automation**, University of Electronic Science and Technology of China (UESTC), 2016.08 - 2020.06
