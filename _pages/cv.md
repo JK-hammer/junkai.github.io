@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-# CV
-
 ## Education
 - **Ph.D. in Electronics**, Nanyang Technological University (NTU), 2021.08 - 2026.06
 - **M.S. in Electronics**, Nanyang Technological University (NTU), 2020.08 - 2021.06
