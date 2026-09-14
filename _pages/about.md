@@ -11,7 +11,7 @@ My research interests include:
 - FPGA/SoC Heterogeneous System Design
 - Hardware/Software Co-design and Optimization
 
-📧 Email: junkai002@e.ntu.edu.sg
+📧 Email: junkaizhao75@gmail.com
 
 ## Education
 - **Ph.D. in Electronics**, Nanyang Technological University (NTU), 2021.08 - 2026.06
