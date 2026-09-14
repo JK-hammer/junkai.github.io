@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "About"
+permalink: /
+author_profile: true
+---
 I am currently a Postdoctoral Fellow at the Shanghai Institute of Technical Physics (SITP), Chinese Academy of Sciences (CAS). I received my Ph.D. (2021-2026) and Master's degree (2020-2021) from Nanyang Technological University (NTU). Prior to that, I obtained my Bachelor's degree (2016-2020) from the University of Electronic Science and Technology of China (UESTC).
 
 My research interests include:
