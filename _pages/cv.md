@@ -12,10 +12,16 @@ redirect_from:
 - **M.S. in Electronics**, Nanyang Technological University (NTU), 2020.08 - 2021.06
 - **B.Eng. in Automation**, University of Electronic Science and Technology of China (UESTC), 2016.08 - 2020.06
 
-## Research Experience
-- **Postdoctoral Fellow**, Shanghai Institute of Technical Physics (SITP), CAS, 2026.09 - Present
-- **Research Assistant (Chip Design)**, NTU, School of EEE, 2025.11 - 2026.08
-- **FPGA Engineer (Intern)**, Zero-Error Systems (ZES) Pte Ltd, 2025.10 - 2025.11
+## Projects
+- **AI-based SEL/μ-SEL Detection and Protection for COTS Systems** (2021.08 - 2026.06)
+  - Developed a non-invasive, current-signature-based intelligent in-orbit reinforcement scheme using a lightweight LSTM neural network.
+  - Implemented a low-latency (~0.5ms) and low-power (~73mW) edge computing prototype on FPGA.
+- **FPGA-based Mid-infrared Focal Plane Array (FPA) System** (2020.08 - 2021.06)
+  - Designed high-speed ROIC driving and multi-channel parallel acquisition interfaces.
+  - Built a pipelined image signal processing architecture in FPGA (NUC, BPR, adaptive histogram equalization).
+- **Zynq SoC-based Network-on-Chip (NoC) Data Acquisition System** (2019.08 - 2020.06)
+  - Designed a dynamic congestion-relief router topology and adaptive routing algorithm to reduce NoC congestion.
+  - Outcome: 3 authorized national invention patents.
 
 ## Patents
 - **CN110460546B**, "A Network-on-Chip Based Data Acquisition Method", 2021.
