@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 ## Education
-- **Ph.D. in Electronics**, Nanyang Technological University (NTU), 2021.08 - 2026.06
+- **Ph.D. in Electronics**, Nanyang Technological University (NTU), 2021.08 - 2026.07
 - **M.S. in Electronics**, Nanyang Technological University (NTU), 2020.08 - 2021.06
 - **B.Eng. in Automation**, University of Electronic Science and Technology of China (UESTC), 2016.08 - 2020.06
 
 ## Research Experience
-- **Postdoctoral Fellow**, Shanghai Institute of Technical Physics (SITP), CAS, 2026.06 - Present
+- **Postdoctoral Fellow**, Shanghai Institute of Technical Physics (SITP), CAS, 2026.09 - Present
 - **Research Assistant (Chip Design)**, NTU, School of EEE, 2025.11 - 2026.08
 - **FPGA Engineer (Intern)**, Zero-Error Systems (ZES) Pte Ltd, 2025.10 - 2025.11
 
