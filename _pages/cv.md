@@ -1,64 +1,24 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
+# CV
 
-{% include base_path %}
+## Education
+- **Ph.D. in Electronics**, Nanyang Technological University (NTU), 2021.08 - 2026.06
+- **M.S. in Electronics**, Nanyang Technological University (NTU), 2020.08 - 2021.06
+- **B.Eng. in Automation**, University of Electronic Science and Technology of China (UESTC), 2016.08 - 2020.06
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Research Experience
+- **Postdoctoral Fellow**, Shanghai Institute of Technical Physics (SITP), CAS, 2026.06 - Present
+- **Research Assistant (Chip Design)**, NTU, School of EEE, 2025.11 - 2026.08
+- **FPGA Engineer (Intern)**, Zero-Error Systems (ZES) Pte Ltd, 2025.10 - 2025.11
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Patents
+- **CN110460546B**, "A Network-on-Chip Based Data Acquisition Method", 2021.
+- **CN110460530B**, "A Blocking-Relief Bypass Router Design Method for Data Acquisition Systems", 2021.
+- **CN110460545B**, "A Blocking-Relief Variable-Length Packet Router Design Method for Network-on-Chip", 2021.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Honors & Awards
+- **Emerging Leadership Award**, NTU Student Leadership, 2026
+- **Best Poster Presentation Award**, NTU EEE Graduate Research Exhibition, 2025 - 2026
+- **Student Scholarship**, IEEE International Symposium on Circuits and Systems (ISCAS), 2025
+- **RSS PhD Full Scholarship**, Nanyang Technological University, 2021 - 2025
+- **Sichuan Province College Student Comprehensive Quality Grade A Certificate**, 2019
+- **Outstanding Student Leader Scholarship / Model Student Scholarship**, UESTC, 2017 - 2020
